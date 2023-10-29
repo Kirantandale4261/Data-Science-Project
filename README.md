@@ -1,5 +1,4 @@
-# Data-Science-Project-
-Cluster 
+# Data-Science-Project- Cluster 
 Cluster Analysis
 Business Objective: Creating clusters on global development measurement dataset
 Data Set Details:
